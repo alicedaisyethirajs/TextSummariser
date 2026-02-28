@@ -1,10 +1,10 @@
-Overview
+**Overview**
 
 This project is a simple yet powerful AI-driven text summarization web application built using Hugging Face Transformers and Gradio. The application takes long-form text as input and generates a concise, meaningful summary using a pre-trained transformer model.
 
 It demonstrates how to integrate a state-of-the-art NLP model into an interactive web interface with minimal setup.
 
-Model Details
+**Model Details**
 
 Model Used: sshleifer/distilbart-cnn-12-6
 
@@ -16,7 +16,7 @@ Library: Hugging Face Transformers
 
 The selected model is a lightweight, distilled version of BART fine-tuned specifically for text summarization, offering a strong balance between performance and efficiency.
 
-Tech Stack
+**Tech Stack**
 
 Python
 
@@ -27,7 +27,7 @@ Hugging Face Transformers
 Gradio
 
 
-Features
+**Features**
 
 Instant Summarization
 Converts long paragraphs into concise summaries in seconds.
